@@ -1,0 +1,5 @@
+telethon
+flask
+tgcrypto
+cryptg
+hachoir
